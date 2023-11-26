@@ -8,6 +8,7 @@ salario_bruto = valor_hora * horas_trabalhadas
 # Calcular os descontos
 imposto_renda = 0.11 * salario_bruto
 inss = 0.08 * salario_bruto
+
 sindicato = 0.05 * salario_bruto
 
 # Calcular o salário líquido
