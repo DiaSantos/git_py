@@ -1,5 +1,4 @@
 import os
-import time
 
 cls = lambda : os.system('cls')
 
